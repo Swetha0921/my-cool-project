@@ -20,7 +20,7 @@ public class Calculator
 	     short n2=sc.nextShort();
          return n1*n2;
     }
-     int divNumbers()
+     float divNumbers()
     {
          short n1=sc.nextShort();
 	     short n2=sc.nextShort();
